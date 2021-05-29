@@ -1,0 +1,36 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+
+}
+
+.medsos {
+	padding: 5px 0;
+	background-color:#084763;
+}
+
+.medsos ul li{
+	display: inline-block;
+	color: #fff;
+	margin-right: 10px;
+
+
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+
+
+	
+}
+
+.container:after {
+	content: "";
+	display: block;
+	clear: both;
